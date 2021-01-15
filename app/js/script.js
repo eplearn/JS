@@ -57,7 +57,6 @@ function rangeOdd(start, end) {
 console.log(array.length, array); */
 
 
-
 //задача 3 Функции
 /*
 3.1
